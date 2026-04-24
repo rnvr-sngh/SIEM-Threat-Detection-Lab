@@ -128,8 +128,8 @@ To replicate the workflow of a SOC (Security Operations Center) analyst by:
 
 ## 👤 Author
 
-**[Your Name]** — 2nd Year CSE/IT Student  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 📧 your.email@example.com
+Ranveer singh — 2nd Year cybersecurity B.TECH Student  
+🔗 [LinkedIn](www.linkedin.com/in/ranveer-singh-479a58383) | 📧 ranveersingh8823@gmail.com
 
 ---
 
